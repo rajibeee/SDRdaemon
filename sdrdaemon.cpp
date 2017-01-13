@@ -382,7 +382,7 @@ int main(int argc, char **argv)
     unsigned int txDelay = 0;
 
     fprintf(stderr,
-            "SDRDaemon - Collect samples from SDR device and send it over the network via UDP\n");
+            "SDRDaemon - Collect >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>samples from SDR device and send it over the network via UDP\n");
 
     const struct option longopts[] = {
         { "devtype",    2, NULL, 't' },
